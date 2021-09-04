@@ -11,6 +11,14 @@ body {
   font-family: monospace;
 }
 
+header {
+  display: flex;
+}
+
+.header-image {
+  margin-left: 4rem;
+}
+
 article {
   background-color: white;
   display: flex;
