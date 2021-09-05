@@ -145,4 +145,12 @@ footer {
   .info-item {
     width: 100%;
   }
+
+  .header-image {
+    margin-left: 0;
+  }
+
+  .biber {
+    width: 90%;
+  }
 }
