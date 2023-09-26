@@ -9,6 +9,7 @@ body {
   padding: 4rem 0;
   background-image: url(space_bg.png);
   font-family: monospace;
+  font-size: 1.2em;
 }
 
 header {
